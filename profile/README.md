@@ -10,9 +10,9 @@
 
 Glint analyses how well a resume fits a specific job posting across three dimensions:
 
-- **AI Semantic** — Gemini reads both documents and identifies conceptual overlap, experience gaps, and actionable rewrites.
-- **Keyword Match** — A vocabulary-rarity algorithm extracts domain-specific terms from the job ad and checks which ones appear in the resume, weighted by importance and repetition.
-- **Rule-Based** — Structured criteria checks: years of experience, seniority indicators, required certifications, and resume structure.
+- **AI Semantic**: Gemini reads both documents and identifies conceptual overlap, experience gaps, and actionable rewrites.
+- **Keyword Match**: A vocabulary-rarity algorithm extracts domain-specific terms from the job ad and checks which ones appear in the resume, weighted by importance and repetition.
+- **Rule-Based**: Structured criteria checks: years of experience, seniority indicators, required certifications, and resume structure.
 
 All three run in parallel and stream results back as each finishes. No account required to start.
 
@@ -63,8 +63,8 @@ All three run in parallel and stream results back as each finishes. No account r
 
 See the individual READMEs for setup instructions:
 
-- [`glint-frontend/README.md`](./glint-frontend/README.md) — Next.js dev server, environment variables
-- [`glint-backend/README.md`](./glint-backend/README.md) — .NET setup, user secrets, database migrations
+- [`glint-frontend/README.md`](./glint-frontend/README.md): Next.js dev server, environment variables
+- [`glint-backend/README.md`](./glint-backend/README.md): .NET setup, user secrets, database migrations
 
 You will need a PostgreSQL database, a Google Gemini API key, and a Resend account for email delivery.
 
