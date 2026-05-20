@@ -4,6 +4,8 @@
 
 🌐 **[glint-analysis.xyz](https://glint-analysis.xyz)**
 
+📄 **[Our thesis on this project](https://github.com/Glint-io/.github/blob/main/Glint_%20A%20Multi-Method%20Web%20Application%20for%20Real-Time%20Resume%20and%20Job%20Advertisement%20Analysis.pdf)**
+
 ---
 
 ## What it does
